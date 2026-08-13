@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Black Abaya",
+    "price": 1850,
+    "category": "Abayas",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80",
+    "nameAr": "عباية رويال سوداء"
+  },
+  {
+    "id": 2,
+    "name": "Golden Evening Abaya",
+    "price": 2200,
+    "category": "Abayas",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black & Gold"
+    ],
+    "image": "https://images.unsplash.com/photo-1585488436628-6b1f5d5c9b85?auto=format&fit=crop&w=900&q=80",
+    "nameAr": "عباية السهرة الذهبية"
+  },
+  {
+    "id": 3,
+    "name": "Afnan Evening Dress",
+    "price": 2600,
+    "category": "Dresses",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Burgundy"
+    ],
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=80",
+    "nameAr": "فستان أفنان للسهرة"
+  }
+]
